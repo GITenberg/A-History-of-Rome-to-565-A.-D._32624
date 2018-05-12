@@ -1,0 +1,49 @@
+_repo: A-History-of-Rome-to-565-A.-D._32624
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Boak, Arthur E. R. (Arthur Edward Romilly)
+    aliases:
+    - Boak, Arthur Edward Romilly
+    - Boak, A. E. R. (Arthur Edward Romilly)
+    birthdate: 1888
+    deathdate: 1962
+    gutenberg_agent_id: '35945'
+    url: http://www.gutenberg.org/2009/agents/35945
+description: 'The early peoples of Italy. The geography of Italy ; Prehistoric civilization
+  in Italy ; The Etruscans and the Greeks in Italy -- The primitive monarchy and the
+  republic from prehistoric times to 27 B.C. Early Rome to the fall of the monarchy
+  ; The expansion of Rome to the unification of the Italian peninsula : ca. 508-265
+  B.C. ; The growth of the commonwealth : 508-287 B.C. ; Society and religion in the
+  early republic ; The conquest of the Mediterranean, the first phase : the struggle
+  with Carthage : 264-201 B.C. ; The conquest of the Mediterranean, the second phase
+  : Rome and the Greek East : 200-167 B.C. ; The new imperialism : 167-133 B.C. ;
+  Rome, Italy, and the empire : 264-133 B.C. ; The struggle of the optimates and the
+  populares : 133-78 B.C. ; The rise of Pompey the Great : 78-60 B.C. ; The rivalry
+  of Pompey and Caesar and Caesar''s dictatorship : 59-44 B.C. ; The passing of the
+  republic : 44-27 B.C. -- The principate or early empire : 27 B.C.-285 A.D. The establishment
+  of the principate : 27 B.C.-14 A.D. ; the principate under the Judio-Claudians and
+  Flavians : 14-96 A.D. ; The Roman peace and the militarization of the government
+  : 96-235 A.D. ; The public administration under the principate ; Social, intellectual,
+  and religious life under the principate ; Disintegration and recovery : 235-285
+  A.D. -- The autocracy or late empire : 285-565 A.D. The empire stands united : 285-395
+  A.D. ; The public administration under the autocracy ; The Germanic occupation of
+  Italy and the western provinces : 395-493 A.D. ; The age of Justinian : 518-565
+  A.D. ; Religion, literature and art in the late empire.'
+gutenberg_issued: '2010-05-31'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '32624'
+  lccn: '22000272'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Rome -- History'
+- !lcc 'DG'
+title: A History of Rome to 565 A. D.
+url: http://www.gutenberg.org/ebooks/32624
